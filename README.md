@@ -21,7 +21,6 @@ MongoDB is a database application that stores JSON documents (or records) that y
 ### Login & Register pages
 ### Authentication Context
 ### Adding posts
-### Like Button
 ### Single post page
 ### Displaying, Adding & Deleting Comments
 ### Info Popups
