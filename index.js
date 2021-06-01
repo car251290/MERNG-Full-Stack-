@@ -39,8 +39,10 @@ const server = new ApolloServer ({
 });
 // connect to the MongoDB, will use the password and the cluster
 mongoose.connect(MONGODB,{useNewUrlParser: true})
+// the lister to resquest the server
 .then( ()=> { return server.listen({port:5000});
 })
+// the resquest of the server in the URL
 .then(res => {
     console.log(`Server running at ${res.url}`);
 }) 
