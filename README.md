@@ -23,6 +23,6 @@ MongoDB is a database application that stores JSON documents (or records) that y
 ### Adding posts
 ### Single post page
 ### Displaying, Adding & Deleting Comments
-### Info Popups
-### Deployment to Heroku & Netlify
+### Info Pop ups
+### Deployment to Heroku.js & Netlify.js
  
