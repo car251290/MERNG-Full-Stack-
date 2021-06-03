@@ -48,7 +48,7 @@ mongoose.connect(MONGODB,{useNewUrlParser: true})
 }) 
 
 
-//running in the 5000 the browser
+// running in the 5000 to the browser
 server.listen({port:5000})
 .then(res => {
     console.log(`server running at ${res.url}`)
